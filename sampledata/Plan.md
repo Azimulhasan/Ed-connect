@@ -93,3 +93,89 @@ Dashboard - (select userType to login or if signup then enter referal and exclud
   - Specific Use Pages
     - Class Page
     - Create Classes
+
+
+
+
+- Pages:
+  - Home
+  - Learnroom (Dashboard)
+  - About Us
+  - Contact Us
+  - Legal:
+    - Privacy Policy
+    - Terms & Conditions
+  - Profile:
+      - Profile Image
+      - Name
+      - User Type (Student/Super/Teacher/Management)
+      - Email ID
+      - Password Change
+      - Transactions
+  - Login / Sign Up
+
+- Learnroom (Dashboard):
+  - Select User Type to Login
+  - Sign Up (with Referral Code)
+  - Exclude Super User
+
+- Student:
+  - Dashboard Landing Page:
+    - School Details
+    - Announcements
+    - Your Classes
+    - Browse Classes
+    - Notifications
+    - My Purchases
+    - Profile
+    - Light Adjustment
+  - Specific Use Pages:
+    - Your Class Page
+    - Class Purchase Page
+    - My Purchase Receipts:
+      - Transaction Details
+
+- Super User:
+  - Dashboard Landing Page:
+    - School List
+    - Teachers List
+    - Student List
+    - Create School Page
+    - All Transactions with ID
+    - Create Super User
+    - Create Management Role Page with Referral Link
+    - Light Adjustment
+  - Specific Use Pages:
+    - School Page:
+      - Update School Data
+    - Class Page
+    - Student Profile
+
+- Management:
+  - Dashboard Landing Page:
+    - Student List with Classes
+    - Create Announcement
+    - Teachers List with Classes
+    - Create with Classes
+    - Create Student User Referral
+    - Create Teacher Referral
+    - Notifications
+    - Teacher Role Acceptor Page
+    - Transaction in the School
+    - Profile
+  - Specific Use Pages:
+    - Teacher Page
+    - Class Page with Students and Transactions
+    - Student Details Page
+
+- Teacher:
+  - Dashboard Landing Page:
+    - School Details
+    - Class List
+    - Sales List
+    - Classroom Page Update
+    - Profile
+  - Specific Use Pages:
+    - Class Page
+    - Create Classes
+
