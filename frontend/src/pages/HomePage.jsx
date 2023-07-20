@@ -6,7 +6,7 @@ const HomePage = () => {
     const { titleData } = useContext(PageContext)
   return (
     <div>
-    <h2>HomePage</h2>
+    <h2>Home</h2>
     <h3>{titleData}</h3>
     <Link to='login'>
         <h6>Login</h6>
