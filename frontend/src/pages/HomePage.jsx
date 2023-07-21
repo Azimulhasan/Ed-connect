@@ -2,6 +2,7 @@ import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
 import { PageContext} from '../context'
 
+
 const HomePage = () => {
     const { titleData } = useContext(PageContext)
   return (
