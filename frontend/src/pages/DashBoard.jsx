@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { PageContext } from '../context'
-import { useNavigate } from 'react-router-dom'
+import { Route, useNavigate } from 'react-router-dom'
 import { Sidebar , Navbar } from '../components'
 
 const Dashboard = () => {
@@ -22,8 +22,7 @@ const Dashboard = () => {
 
     <div className='flex-1 max-sm:w-full max-w-[1280px] mx-auto sm:pr-5'>
       <Navbar />
-
-
+      
     </div>
   </div>
   )
