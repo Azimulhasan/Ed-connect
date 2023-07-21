@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 :root{
-    --dark-bg-color: #131318;
-    --solid-color: #2c2f32;
-    --accent-color: #1dc071;
-    --accent-off-color : #808191;
+    --darkmode-bg-color: #131318;
+    --darkmode-solid-color: #2c2f32;
+    --darkmode-accent-color: #1dc071;
+    --darkmode-accent-off-color : #808191;
     --lightmode-bg-color: #bcbcec;
     --lightmode-solid-color: #c7d6e4;
     --lightmode-accent-color: #0c3e52;
